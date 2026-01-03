@@ -6,7 +6,7 @@ This repository is the public counterpart to the CWRP repository and includes th
 # Features
 * Combat System: Incorporated simple weapon base with Star Wars inspired blasters.
 * Job Menu : Select from a range of custom job's with unique loadout's to roleplay as.
-* Roleplay Gameplay: Mimics the core mechanics of DarkRP while providing a unique, session-only experience.
+* Roleplay Gameplay: Mimics the core mechanics of Star Wars DarkRP while providing a unique, session-only experience.
 * Admin Interface: An in-game command menu to moderate the server.
 
 # Gameplay
